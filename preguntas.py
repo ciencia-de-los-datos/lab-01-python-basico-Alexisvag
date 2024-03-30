@@ -19,7 +19,7 @@ import csv
 def lectura_de_documento():
         
     
-# leo el documento csv
+# leer el documento csv
 
     archivo_csv="data.csv"
     with open (archivo_csv,"r") as file:
